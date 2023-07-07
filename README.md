@@ -3,3 +3,5 @@ This repository contains several examples of using GridSearchCV to optimize diff
 
 Models used are: 
 Linear Regression, DecisionTrees, RandomForests, Gradient Boosting, and ANN. 
+
+These files also display 2D/3D graphing in Matplotlib.
